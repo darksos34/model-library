@@ -39,4 +39,5 @@ public class UserDTO extends RepresentationModel<UserDTO> {
     @Schema(title = "Profile", description = "A private string variable named profile")
     private List<ProfileDTO> profiles;
 
+
 }
