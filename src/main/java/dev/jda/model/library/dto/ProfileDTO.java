@@ -27,11 +27,11 @@ public class ProfileDTO extends RepresentationModel<ProfileDTO> {
     private String uuid;
 
     @Size(max = 40)
-    @Schema(title = "NAME",requiredMode = Schema.RequiredMode.REQUIRED, description = "A private string variable named name")
+    @Schema(title = "NAME", requiredMode = Schema.RequiredMode.REQUIRED, description = "A private string variable named name")
     private String name;
 
     @Size(max = 15)
-    @Schema(title = "Code",requiredMode = Schema.RequiredMode.REQUIRED, description = "A string variable named CODE with the value \"ABC123\"")
+    @Schema(title = "Code", requiredMode = Schema.RequiredMode.REQUIRED, description = "A string variable named CODE with the value \"ABC123\"")
     private String code;
 
     @Schema(title = "User", description = "A private string variable named user")
