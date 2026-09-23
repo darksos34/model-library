@@ -3,8 +3,8 @@
 
 
 <b>Author:</b> <a href="https://github.com/darksos34" target="_blank">Jordy Hamwijk</a><br>
-<b>Created:</b> 2024-04-04<br>
-<b>Last updated:</b> 2025-12-26</br>
+<b>Created:</b> 04-04-2024<br>
+<b>Last updated:</b> 23-09-2026</br>
 ### Model Library Version 0.0.7
 
 [![](https://img.shields.io/badge/Spring%20Boot-8A2BE2)]() [![](https://img.shields.io/badge/release-Dec%2018,%202025-blue)]() [![](https://img.shields.io/badge/version-4.0.1-blue)]()
